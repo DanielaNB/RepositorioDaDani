@@ -1,0 +1,3 @@
+Mensagem 547, Nível 16, Estado 0, Linha 1
+A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_funcionarios_setores". O conflito ocorreu no bando de dados "tst", tabela "dbo.setores", column 'codigo'.
+A instrução foi finalizada.
